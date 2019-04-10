@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://rowans-blog.netlify.com/* https://blog.rowans.ml/:splat 301!
